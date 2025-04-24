@@ -21,7 +21,7 @@ fig = px.bar(
     x="Year",
     y="Emissions (Mt)",
     color="Method",
-    color_discrete_map = {'Old': 'darkblue',
+    color_discrete_map = {'Old': 'lightblue',
                  'New': 'orange'
         
     },
