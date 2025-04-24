@@ -1,0 +1,121 @@
+Asset,Year,Method,Emissions (Mt),Estimate Type,Delta Emisssions,Capacity (Mmboe),Coverage (%),Intensity (kg/boe),Delta Intensity
+Central oil fields,2019,Old,"0,100",Extrapolated,,"54,75",,"1,83",
+Central oil fields,2019,New,"0,112",Measured,"12,00%","51,7",,"2,17","18,61%"
+Central oil fields,2020,Old,"0,100",Extrapolated,,"54,75",,"1,83",
+Central oil fields,2020,New,"0,129",Measured,"29,00%","49,2",,"2,62","43,55%"
+Central oil fields,2021,Old,"0,100",Extrapolated,,"54,75",,"1,83",
+Central oil fields,2021,New,"0,144",Measured,"44,00%","48,9",,"2,94","61,23%"
+Central oil fields,2022,Old,"0,100",Extrapolated,,"54,75",,"1,83",
+Central oil fields,2022,New,"0,108",Measured,"8,00%","55,6",,"1,94","6,35%"
+Central oil fields,2023,Old,"0,100",Measured,,"54,75",,"1,83",
+Central oil fields,2023,New,"0,137",Measured,"37,00%","51,3",,"2,67","46,21%"
+Central oil fields,2024,Old,,Extrapolated,,"54,75",,"0,00",
+Central oil fields,2024,New,"0,146",Extrapolated,#DIV/0!,"52,1",,"2,80",#DIV/0!
+North Abqaiq ,2019,Old,"0,020",Split from Measure,,73,,"0,27",
+North Abqaiq,2019,New,"0,124",Extrapolated,"520,00%","72,27",,"1,72","526,26%"
+North Abqaiq,2020,Old,"0,020",Extrapolated,,73,,"0,27",
+North Abqaiq,2020,New,"0,112",Split from Measure,"460,00%","68,80",,"1,63","494,18%"
+North Abqaiq,2021,Old,"0,020",Split from Measure,,73,,"0,27",
+North Abqaiq,2021,New,"0,109",Split from Measure,"445,00%","68,41",,"1,59","481,59%"
+North Abqaiq,2022,Old,"0,020",Extrapolated,,73,,"0,27",
+North Abqaiq,2022,New,"0,115",Split from Measure,"475,00%","73,00",,"1,58","475,00%"
+North Abqaiq,2023,Old,"0,020",Extrapolated,,73,,"0,27",
+North Abqaiq,2023,New,"0,145",Split from Measure,"625,00%","71,68",,"2,02","638,32%"
+North Abqaiq,2024,Old,,,,73,,"0,00",
+North Abqaiq,2024,New,"0,116",Split from Measure,#DIV/0!,"72,88",,"1,59",#DIV/0!
+South Abqaiq,2019,Old,"0,004",Extrapolated,,73,,"0,05",
+South Abqaiq,2019,New,"0,006",Split from Measure,"50,00%","72,27",,"0,08","51,52%"
+South Abqaiq,2020,Old,"0,004",Split from Measure,,73,,"0,05",
+South Abqaiq,2020,New,"0,011",Split from Measure,"175,00%","68,80",,"0,16","191,78%"
+South Abqaiq,2021,Old,"0,004",Split from Measure,,73,,"0,05",
+South Abqaiq,2021,New,"0,005",Split from Measure,"25,00%","68,41",,"0,07","33,39%"
+South Abqaiq,2022,Old,"0,003",Split from Measure,,73,,"0,04",
+South Abqaiq,2022,New,"0,008",Split from Measure,"166,67%","73,00",,"0,11","166,67%"
+South Abqaiq,2023,Old,"0,003",Split from Measure,,73,,"0,04",
+South Abqaiq,2023,New,"0,011",Split from Measure,"266,67%","71,68",,"0,15","273,40%"
+South Abqaiq,2024,Old,,,,73,,"0,00",
+South Abqaiq,2024,New,"0,012",Split from Measure,#DIV/0!,"72,88",,"0,16",#DIV/0!
+Ghawar North,2019,Old,"0,116",Extrapolated,,"693,5",,"0,17",
+Ghawar North,2019,New,"0,058",Split from Measure,"-50,00%","703,3",,"0,08","-50,70%"
+Ghawar North,2020,Old,"0,116",Split from Measure,,"693,5",,"0,17",
+Ghawar North,2020,New,"0,106",Split from Measure,"-8,62%","669,62",,"0,16","-5,36%"
+Ghawar North,2021,Old,"0,116",Split from Measure,,"693,5",,"0,17",
+Ghawar North,2021,New,"0,051",Split from Measure,"-56,03%","665,79",,"0,08","-54,20%"
+Ghawar North,2022,Old,"0,090",Split from Measure,,"693,5",,"0,13",
+Ghawar North,2022,New,"0,088",Split from Measure,"-2,22%","755,34",,"0,12","-10,23%"
+Ghawar North,2023,Old,"0,097",Split from Measure,,"693,5",,"0,14",
+Ghawar North,2023,New,"0,111",Split from Measure,"14,43%","697,67",,"0,16","13,75%"
+Ghawar North,2024,Old,,,,"693,5",,"0,00",
+Ghawar North,2024,New,"0,112",Split from Measure,#DIV/0!,"703,3",,"0,16",#DIV/0!
+Ghawar South,2019,Old,"0,070",Extrapolated,,"693,5",,"0,10",
+Ghawar South,2019,New,"0,076",Measured,"8,57%","703,3",,"0,11","7,06%"
+Ghawar South,2020,Old,"0,070",Extrapolated,,"693,5",,"0,10",
+Ghawar South,2020,New,"0,078",Measured,"11,43%","669,62",,"0,12","15,40%"
+Ghawar South,2021,Old,"0,070",Measured,,"693,5",,"0,10",
+Ghawar South,2021,New,"0,096",Measured,"37,14%","665,79",,"0,14","42,85%"
+Ghawar South,2022,Old,"0,060",Measured,,"693,5",,"0,09",
+Ghawar South,2022,New,"0,107",Measured,"78,33%","755,34",,"0,14","63,73%"
+Ghawar South,2023,Old,"0,068",Extrapolated,,"693,5",,"0,10",
+Ghawar South,2023,New,"0,064",Measured,"-5,19%","697,67",,"0,09","-5,75%"
+Ghawar South,2024,Old,,,,"693,5",,"0,00",
+Ghawar South,2024,New,"0,071",Measured,#DIV/0!,"703,3",,"0,10",#DIV/0!
+Ghazal/Mazalij,2019,Old,"0,090",Measured,,"264,625",,"0,34",
+Ghazal/Mazalij,2019,New,"0,076",Measured,"-15,56%","264,63",,"0,29","-15,56%"
+Ghazal/Mazalij,2020,Old,"0,095",Extrapolated,,"264,625",,"0,36",
+Ghazal/Mazalij,2020,New,"0,086",Measured,"-9,47%","251,92",,"0,34","-4,91%"
+Ghazal/Mazalij,2021,Old,"0,100",Measured,,"264,625",,"0,38",
+Ghazal/Mazalij,2021,New,"0,067",Measured,"-33,00%","250,48",,"0,27","-29,22%"
+Ghazal/Mazalij,2022,Old,"0,080",Measured,,"264,625",,"0,30",
+Ghazal/Mazalij,2022,New,"0,072",Measured,"-10,00%","264,63",,"0,27","-10,00%"
+Ghazal/Mazalij,2023,Old,"0,060",Measured,,"264,625",,"0,23",
+Ghazal/Mazalij,2023,New,"0,116",Measured,"93,33%","262,48",,"0,44","94,91%"
+Ghazal/Mazalij,2024,Old,,,,"264,625",,"0,00",
+Ghazal/Mazalij,2024,New,"0,095",Measured,#DIV/0!,"266,86",,"0,36",#DIV/0!
+Khurais,2019,Old,"0,080",Measured,,"264,625",,"0,30",
+Khurais,2019,New,"0,079",Measured,"-1,25%","264,63",,"0,30","-1,25%"
+Khurais,2020,Old,"0,110",Measured,,"264,625",,"0,42",
+Khurais,2020,New,"0,087",Measured,"-20,91%","251,92",,"0,35","-16,92%"
+Khurais,2021,Old,"0,085",Extrapolated,,"264,625",,"0,32",
+Khurais,2021,New,"0,085",Measured,"0,00%","250,48",,"0,34","5,65%"
+Khurais,2022,Old,"0,060",Measured,,"264,625",,"0,23",
+Khurais,2022,New,"0,108",Measured,"80,00%","264,63",,"0,41","80,00%"
+Khurais,2023,Old,"0,070",Measured,,"264,625",,"0,26",
+Khurais,2023,New,"0,079",Measured,"12,86%","262,48",,"0,30","13,78%"
+Khurais,2024,Old,,,,"264,625",,"0,00",
+Khurais,2024,New,"0,094",Measured,#DIV/0!,"266,86",,"0,35",#DIV/0!
+Shaybah,2019,Old,"0,060",Measured,,365,,"0,16",
+Shaybah,2019,New,"0,039",Measured,"-35,00%","339,81",,"0,11","-30,18%"
+Shaybah,2020,Old,"0,040",Measured,,365,,"0,11",
+Shaybah,2020,New,"0,042",Measured,"5,00%","323,5",,"0,13","18,47%"
+Shaybah,2021,Old,"0,050",Measured,,365,,"0,14",
+Shaybah,2021,New,"0,039",Measured,"-22,00%","321,65",,"0,12","-11,49%"
+Shaybah,2022,Old,"0,040",Measured,,365,,"0,11",
+Shaybah,2022,New,"0,050",Measured,"25,00%","365,29",,"0,14","24,90%"
+Shaybah,2023,Old,"0,048",Extrapolated,,365,,"0,13",
+Shaybah,2023,New,"0,054",Measured,"12,50%","337,05",,"0,16","21,83%"
+Shaybah,2024,Old,,,,365,,"0,00",
+Shaybah,2024,New,"0,049",Measured,#DIV/0!,"342,68",,"0,14",#DIV/0!
+Jaladi,2019,Old,"0,003",Extrapolated,,"13,87",,"0,22",
+Jaladi,2019,New,"0,051",Measured,"1600,00%","12,92",,"3,95","1724,40%"
+Jaladi,2020,Old,"0,003",Extrapolated,,"13,87",,"0,22",
+Jaladi,2020,New,"0,048",Measured,"1500,00%","12,30",,"3,90","1703,66%"
+Jaladi,2021,Old,"0,003",Extrapolated,,"13,87",,"0,22",
+Jaladi,2021,New,"0,063",Measured,"2000,00%","12,23",,"5,15","2280,92%"
+Jaladi,2022,Old,"0,003",Extrapolated,,"13,87",,"0,22",
+Jaladi,2022,New,"0,085",Measured,"2733,33%","13,89",,"6,12","2728,44%"
+Jaladi,2023,Old,"0,003",Extrapolated,,"13,87",,"0,22",
+Jaladi,2023,New,"0,063",Measured,"2000,00%","12,82",,"4,91","2172,12%"
+Jaladi,2024,Old,,,,"13,87",,"0,00",
+Jaladi,2024,New,"0,077",Measured,#DIV/0!,"13,03",,"5,91",#DIV/0!
+North Arabia,2019,Old,"0,003",Extrapolated,,,,#DIV/0!,
+North Arabia,2019,New,"0,044",Measured,"1366,67%","12,12920612",,"3,63",#DIV/0!
+North Arabia,2020,Old,"0,003",Extrapolated,,,,#DIV/0!,
+North Arabia,2020,New,"0,057",Measured,"1800,00%","11,54702397",,"4,94",#DIV/0!
+North Arabia,2021,Old,"0,002",Extrapolated,,,,#DIV/0!,
+North Arabia,2021,New,"0,065",Measured,"3150,00%","11,48100166",,"5,66",#DIV/0!
+North Arabia,2022,Old,"0,002",Extrapolated,,,,#DIV/0!,
+North Arabia,2022,New,"0,080",Measured,"3900,00%","13,03933173",,"6,14",#DIV/0!
+North Arabia,2023,Old,"0,002",Extrapolated,,,,#DIV/0!,
+North Arabia,2023,New,"0,083",Measured,"4050,00%","12,03072915",,"6,90",#DIV/0!
+North Arabia,2024,Old,,,,,,#DIV/0!,
+North Arabia,2024,New,"0,079",Measured,#DIV/0!,"12,2315684",,"6,46",#DIV/0!
