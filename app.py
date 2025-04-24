@@ -41,6 +41,6 @@ st.plotly_chart(fig)
 
 #st.write('Propriétés des assets')
 
-data = filtered_df[filtered_df['Method']== 'New'][['Year', 'Delta Emisssions']]
+data = filtered_df[filtered_df['Method']== 'New']
 
 st.dataframe(data)
