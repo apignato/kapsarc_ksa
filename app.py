@@ -22,7 +22,7 @@ fig = px.bar(
     y="Emissions (Mt)",
     color="Method",
     color_map = {'Old': 'red',
-                 'New': 'Blue'
+                 'New': 'blue'
         
     },
     barmode="group",
