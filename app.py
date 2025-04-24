@@ -3,11 +3,11 @@ import pandas as pd
 import plotly.express as px
 
 
-st.title("Émissions de méthane - Vue interactive")
+st.title("Comparison Old VS new results")
 
 # Charger les données
 df = pd.read_csv("comparison_OG.csv")  
-
+df['Emissions (Mt)'] = df['Emissions (Mt)'].astype(str).str.replace(',', '.').astype(float)
 
 assets = df["Asset"].unique()
 selected_asset = st.selectbox("Choose an asset :", assets)
