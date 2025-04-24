@@ -21,6 +21,10 @@ fig = px.bar(
     x="Year",
     y="Emissions (Mt)",
     color="Method",
+    color_map = {'Old': 'red',
+                 'New': 'Blue'
+        
+    },
     barmode="group",
     title=f"O&G emissions for {selected_asset}",
     pattern_shape="Estimate Type", 
