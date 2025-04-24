@@ -22,7 +22,8 @@ fig = px.bar(
     y="Emissions (Mt)",
     color="Method",
     barmode="group",
-    title=f"O&G emissions for {selected_asset}"
+    title=f"O&G emissions for {selected_asset}",
+    pattern_shape="Estimate Type", pattern_shape_sequence=["x", ""]
 )
 
 
