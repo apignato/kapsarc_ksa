@@ -23,7 +23,11 @@ fig = px.bar(
     color="Method",
     barmode="group",
     title=f"O&G emissions for {selected_asset}",
-    pattern_shape="Estimate Type", pattern_shape_sequence=["x", ""]
+    pattern_shape="Estimate Type", 
+    pattern_shape_map={
+        "Extrapolated": "x",
+        "Measured": "",
+        "Split from Measure": "."}
 )
 
 
