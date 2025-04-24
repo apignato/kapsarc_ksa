@@ -42,5 +42,7 @@ st.plotly_chart(fig)
 #st.write('Propriétés des assets')
 
 data = filtered_df[filtered_df['Method']== 'New']
+data = data.drop('Method', axis = 1)
+data = data.drop('Coverage (%)', axis = 1)
 
 st.dataframe(data)
